@@ -5,10 +5,10 @@ const config = {
     name: "Adanalı",
     description: "A talented and ambitious self-taught web developer with expertise in JavaScript. I have a strong passion for building dynamic and engaging web applications that deliver exceptional user experiences.",
     discord: {
-        userId: "1155137511954337887"
+        userId: "1061647578271318026"
     },
     github: {
-        username: "VENOM12-commits"
+        username: "VENOM12"
     },
     links: [
         {
@@ -19,13 +19,13 @@ const config = {
         },
         {
             name: 'Discord',
-            url: 'https://discord.com/users/1155137511954337887',
+            url: 'https://discord.com/users/1061647578271318026',
             icon: FaDiscord,
             description: 'You can contact me on Discord.'
         },
         {
             name: 'Youtube',
-            url: 'https://youtube.com/@Fr3zy',
+            url: 'https://youtube.com/@ens-be',
             icon: FaYoutube,
             description: 'You can follow me on Youtube.'
         },
