@@ -13,7 +13,7 @@ const config = {
     links: [
         {
             name: 'GitHub',
-            url: 'https://github.com/VENOM12',
+            url: 'https://github.com/VENOM12-commits',
             icon: FaGithub,
             description: 'You can follow me on Github.'
         },
