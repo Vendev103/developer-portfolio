@@ -2,18 +2,18 @@ import { FaGithub, FaDiscord, FaInstagram, FaYoutube } from 'react-icons/fa';
 import { SiJavascript, SiReact, SiNodedotjs, SiCsharp, SiFramer, SiTailwindcss, SiMongodb, SiNextdotjs, SiGit, SiHeadlessui, SiHtml5, SiCss3 } from 'react-icons/si';
 
 const config = {
-    name: "Fr3zy",
+    name: "Adanalı",
     description: "A talented and ambitious self-taught web developer with expertise in JavaScript. I have a strong passion for building dynamic and engaging web applications that deliver exceptional user experiences.",
     discord: {
         userId: "1155137511954337887"
     },
     github: {
-        username: "fr3zyy"
+        username: "VENOM12-commits"
     },
     links: [
         {
             name: 'GitHub',
-            url: 'https://github.com/fr3zyy',
+            url: 'https://github.com/VENOM12',
             icon: FaGithub,
             description: 'You can follow me on Github.'
         },
