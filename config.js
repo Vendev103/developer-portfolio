@@ -8,7 +8,7 @@ const config = {
         userId: "1061647578271318026"
     },
     github: {
-        username: "VENOM12"
+        username: "VENOM12-commits"
     },
     links: [
         {
